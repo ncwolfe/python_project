@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	signal: -29.00 dBm
+	SSID: DNC Lab
+--
+	signal: -49.00 dBm
+	SSID: DNC Lab_5G
+
+	signal: -28.00 dBm
+	SSID: DNC Lab
+--
+	signal: -50.00 dBm
+	SSID: DNC Lab_5G
+
+	signal: -28.00 dBm
+	SSID: DNC Lab
+--
+	signal: -50.00 dBm
+	SSID: DNC Lab_5G
+
+	signal: -28.00 dBm
+	SSID: DNC Lab
+--
+	signal: -50.00 dBm
+	SSID: DNC Lab_5G
+
